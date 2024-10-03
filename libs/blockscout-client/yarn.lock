@@ -178,7 +178,15 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-atlassian-openapi@^1.0.18, atlassian-openapi@^1.0.8:
+atlassian-openapi@^1.0.19:
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/atlassian-openapi/-/atlassian-openapi-1.0.19.tgz#7b2a22bfa9673c3c336b18f137b0654339454885"
+  integrity sha512-MVke8mhpYrfFrYv1Cz4BsUBBxuNMeyLla0dnEsyz1yiLm9wJqdDWHuEDrMaIxzNbloqW9tQgduG6b74htLJZuQ==
+  dependencies:
+    jsonpointer "^5.0.0"
+    urijs "^1.19.10"
+
+atlassian-openapi@^1.0.8:
   version "1.0.18"
   resolved "https://registry.yarnpkg.com/atlassian-openapi/-/atlassian-openapi-1.0.18.tgz#963150c17426858b5ac51be9a07a9e9aef427ca9"
   integrity sha512-IXgF/cYD8DW1mYB/ejDm/lKQMNXi2iCsxus2Y0ffZOxfa/SLoz0RuEZ4xu4suSRjtlda7qZDonQ6TAkQPVuQig==
